@@ -1,4 +1,4 @@
-# ⚡ CyberLauncher v2
+# ⚡ CyberLauncher
 
 > A beautiful Bubble Tea TUI for generating `.desktop` launcher entries for 200+
 > Kali Linux security tools — on **Arch/Debian**, **XFCE/GNOME**, with any
